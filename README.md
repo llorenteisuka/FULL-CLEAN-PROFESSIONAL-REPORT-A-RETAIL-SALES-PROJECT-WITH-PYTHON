@@ -183,6 +183,4 @@ This project demonstrates foundational Python analytics skills including:
 * Data visualization
 * Generating actionable insights
 
-
-Just say the word 😊
 ```
